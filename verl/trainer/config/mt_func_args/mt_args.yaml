@@ -1,0 +1,11 @@
+# "Sentence" "Model" "Merge"
+path: verl/utils/reward_score/mt_score.py
+name: compute_score
+reward_kwargs:
+  scale_factor: 100.0
+  # if not use, format_reward will not be used 
+  reward_metric: Merge
+  mul_times: 2
+  score_limit: 80
+  thinking_check: true
+  max_response_length: ${data.max_response_length}

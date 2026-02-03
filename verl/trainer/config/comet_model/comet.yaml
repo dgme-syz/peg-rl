@@ -1,0 +1,22 @@
+enable: true
+# use the first n models to work as reward signals
+# all the models will be used as metrics
+n: 1
+val_batch_size: ${data.val_batch_size}
+ckpt_path: null
+tokenizer_path: ${actor_rollout_ref.model.path}
+model:
+  external_lib: ${actor_rollout_ref.model.external_lib}
+  fsdp_config:
+    min_num_params: 0
+    param_offload: false
+model_list:
+  - [wmt23-cometkiwi-da-xl, Unbabel/wmt23-cometkiwi-da-xl]
+  # - [xcomet-xl, Unbabel/XCOMET-XL]
+  # - [xcomet-xl, /home/nfs05/model/XCOMET-XL/checkpoints/model.ckpt]
+
+# ppo_mini_batch_size: 128
+# 64 for A6000(64GB), 144 for A100(80GB)
+forward_micro_batch_size: 64
+ulysses_sequence_parallel_size: 1 # sp size
+use_dynamic_bsz: false

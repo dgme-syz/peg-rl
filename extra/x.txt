@@ -1,0 +1,88 @@
+Draft translation: 
+Yksi mies on vapennut, mutta hänen kysymyksiensä jatkuu myöhemmin.
+Post: 
+Yksi mies on vapaana, mutta hänen kysymyksetään jatkuvat myöhemmin.
+Draft translation: 
+Tässä oli yhteystieto tai konflikti.
+Post: 
+Tässä oli yhteystieto tai konflikti.
+Draft translation: 
+Hän lisäsi, että Facebook jatkaa testaamista "liittyvien artikkelien" -funktiostaan ja tekee muutoksia uutisivustoon, jotta vähentäisi epävakaita uutisia.
+Post: 
+Hän lisäsi, että Facebook jatkaa "liittyvien artikkelien" -funktioiden testaamista ja tekee muutoksia uutisivuun, jotta vähennettäisi epävakaita uutisia.
+Draft translation: 
+"Hänella oli oikea hyvorenessä ruoanheikkoisuudesta," Coe hän.
+
+Wait, I think there's a mistake in the translation. Let me try again.
+
+"She had a real fear of food waste," Mr. Coe said.
+
+Correct translation in Finnish would be:
+
+"Hänella oli todella huoli ruoanheikkoisesta," Coe sanoi.
+Post: 
+"Hänella oli todella huoli ruoanheikkoisesta," Coe sanoi.
+Draft translation: 
+Suvun kautta kunnianhimoni tuli tutuksi, että Markuksen Watsonin kultaisen myrskyn päättäminen varmisti voittosuunnitelman - ja lopulta hopeanmedaliin.
+Post: 
+Suvun kautta kunnianhimoni tuli tutuksi, että Markuksen Watsonin kultaisen myrskyn päättäminen varmisti voittosuunnitelman – ja lopulta hopeanmedaliin.
+Draft translation: 
+Royal Bank of Scotland hävisyy asiakasille Ruotsissa.
+Post: 
+Royal Bank of Scotland hävisyy asiakasille Saksassa.
+Draft translation: 
+Vanhanen sanoo, että tilanne verrattiin välittömästi vuosiin 2007 ja 2008.
+Post: 
+Vanhanen sanoo, että tilanne verrattiin välittömästi vuosiin 2007 ja 2008.
+Draft translation: 
+Tupakoinnin yhteydessä kuvitellut, että jätetään yksi suurimmista joukkueista, espanjaan liiga pyrki kumoamaan Neymarin siirron, mainitsemalla, että PSG on käyttäen FFP.
+Post: 
+Tupakoinnin yhteydessä kuvitellut, että jätetään yksi suurimmista joukkueista, espanjaan liiga pyrki kumoamaan Neymarin siirron, mainitsemalla, että PSG on väittääksensä FFP:n rikkomus.
+Draft translation: 
+Tämä testi vihjaa meitä yhdessä askel lessä täysin ymmärtämään PrEP:n edut.
+Post: 
+Tämä testi vie meidän yhdessä askel lessä täysin ymmärtämään PrEP:n edut.
+Draft translation: 
+Haluatko?
+Post: 
+Haluatko?
+Draft translation: 
+Hän kirjoitti hänen itsensä salaisuuskuolemukseen ennen kuin hän kuoli: "Tulette tehtäväkseen, Conrad" ja "Kaikki, mitä sinun on tehtävää, on käynnistää tuulivoimala ja sinulla on olla vapaana ja iloisa."
+Post: 
+Hän kirjoitti itsensä salaisuuskuolemukseen ennen kuin hän kuoli: "Tulette tehtäväkseen, Conrad" ja "Kaikki, mitä sinun on tehtävää, on käynnistää tuulivoimala ja sinulla on olla vapaana ja iloisa."
+Draft translation: 
+Tulos katastrofialtisesta lentoa oli, että kaksi henkilöä kuoli huomenna.
+Post: 
+Tulos katastrofialtisesta lentoosta oli, että kaksi henkilöä kuoli huomenna.
+Draft translation: 
+Investointisuositteiden ja eri investointituotteiden myyntiin liittyvät käytäntöjä tulevat oikaisuksi alkaessaan seuraavasta vuodesta.
+Post: 
+Investointisuositteiden ja eri investointituotteiden myyntiin liittyvät säädökset tulevat oikaisuksi alkaessaan seuraavasta vuodesta.
+Draft translation: 
+Mutta Mr Putinin hymy näytti vähän vihreältä ja hän oli vaalien mukaan kovin kauan kylmä.
+Post: 
+Mutta Mr Putinin hymy näytti vähän voimavuudeltaan heikkolta ja hän oli vaalien mukaan kovin kylmä.
+Draft translation: 
+Samana aikana Hua Hinissa oli toinen kaksoisbomatisuus.
+Post: 
+Samana aikana Hua Hinissa tapahtui toinen kaksoisbomatisuus.
+Draft translation: 
+Mutta tyingt ovat siitä, että kevyt liikunnan pelaaminen on kallis spordi, ja kevyt liikunnan pelaajat harjoittavat pääasiassa yksityissäätiössä, joita veljesten maksavat harjoittamisen, tilan, kuljetuksen, puhtaiden, kilpailutehtävät, hotellikulut (kohtaus ja heidän pelaajansa ja perheensä vuoksi) sekä listaa jatkuu.
+Post: 
+Mutta tosiaan on sitä, että kevyt liikunta on kallis spordi, ja kevyt liikuntapelaajat harjoittavat pääasiassa yksityissäätiössä, joita vanhemmat maksavat harjoittamisen, tilan, kuljetuksen, kyllästyspajat, kilpailutehtävät, hotellikulut (kohtaus ja heidän pelaajansa ja perheensä vuoksi) sekä listaa jatkuu.
+Draft translation: 
+Coe äänesti myös "tähdittäneen" sitä, että Venäjä hyväksyi kriteerit sen uudelleenjättämiseksi.
+Post: 
+Coe äänesti myös "tähdittäneen" sitä, että Venäjä hyväksyi kriteerit sen uudelleenjättämiseksi.
+Draft translation: 
+Joissain kallioista oli radioaktiivisia jälkiä, koska 1950-luvulla tehtyihin ydinvälineiden testauksiin liitytty.
+Post: 
+Joissain kallioista oli radioaktiivisia jälkiä, koska 1950-luvulla tehtyihin ydinvälineiden testauksiin liittyi.
+Draft translation: 
+Hän iloitsee myös perälläoloaan hänen kahden veljen kanssa ja laulaa.
+Post: 
+Hän iloitsee myös kahden veljen kanssa ja laulaa.
+Draft translation: 
+MariaDB auttaa myös tietokantojen vaihdolla, joka voi kestaa yli vuoden, jos asiakas on käyttänyt suljetta tietokantaa.
+Post: 
+MariaDB auttaa myös tietokantojen vaihdossa, joka voi kestaa yli vuoden, jos asiakas on käyttänyt suljetta tietokantaa.
