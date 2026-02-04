@@ -12,7 +12,7 @@ rollout_num=8
 num_gpus=8
 datetime=$(date +%Y%m%d_%H%M%S)
 mul_times=1
-model_tag="(pe,mt)=(M,1)"
+model_tag="pe_mt_M_1"
 exp_name="bs@${train_batch_size}_n@${rollout_num}_m@${mul_times}_@${datetime}_@${model_tag}_@${num_gpus}gpus"
 dir=./data
 
